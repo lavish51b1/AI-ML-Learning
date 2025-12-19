@@ -1,4 +1,4 @@
-# Q1. WAP to grade students based on marks; marks>=90,grade ="A" ;90>marks>=80,grade = "B" ;80>marks>=70,grade = "C" ; 70>marks,  grade = "D".
+# Q1. WAP to gradee students based on marks; marks>=90,grade ="A" ;90>marks>=80,grade = "B" ;80>marks>=70,grade = "C" ; 70>marks,  grade = "D".
 
 marks = float(input("Enter your marks: "))
 
